@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shiva</h1>
-<h3 align="center">🚀 A Full-Stack Developer focused on building scalable web apps and backend systems. I work mainly with React + Redux Toolkit (RTK Query) on the frontend and Go on the backend. Currently exploring AI Agents, MCP Servers, RAG pipelines, and Orchestration systems. 💡 I love building real-world projects like: - AI-powered applications - Movie recommendation & filtering systems - Full-stack apps with authentication + APIs - Microservice-style backend systems 📌 Goal: Become a highly skilled developer by building real projects, learning deeply, and improving every day. 🌍 Always open to collaborations</h3>
+<h3 align="center">🚀 A Full-Stack Developer focused on building scalable web apps and backend systems. I work mainly with React + Redux Toolkit (RTK Query) on the frontend and Go on the backend. Currently exploring AI Agents, MCP Servers, RAG pipelines, and Orchestration systems. 
+💡 I love building real-world projects like: - AI-powered applications - Movie recommendation & filtering systems - Full-stack apps with authentication + APIs - Microservice-style backend systems 
+📌 Goal: Become a highly skilled developer by building real projects, learning deeply, and improving every day. 🌍 Always open to collaborations</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivakumar2006&label=Profile%20views&color=0e75b6&style=flat" alt="shivakumar2006" /> </p>
 
