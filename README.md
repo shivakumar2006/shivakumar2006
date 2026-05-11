@@ -58,16 +58,8 @@ Full-stack developer focused on building scalable backend systems, developer too
 
 ---
 
-# 📊 GitHub Stats
-
-![](https://nirzak-streak-stats.vercel.app/?user=shivakumar2006&theme=dark&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivakumar2006&theme=dark&hide_border=true&layout=compact)
-
----
 
 # 📫 Connect With Me
 
 - 📧 official.shivakumar06@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/shiva-shiva-8a48002a7/
-- 🐙 GitHub: https://github.com/shivakumar2006
