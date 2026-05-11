@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shiva Kumar</h1>
+<h1 align="center">Hi 👋, I'm Shiva</h1>
 
 <h3 align="center">
 Full-stack developer focused on building scalable backend systems, developer tooling, and distributed applications using Go and React.
