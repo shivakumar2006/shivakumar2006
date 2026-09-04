@@ -49,6 +49,10 @@ Full-stack developer focused on building scalable backend systems, developer too
 
 ---
 
+### Observability
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9)
+
 # 🏆 Achievements
 
 - 🥇 Hackathon Winner — *Automate Me If You Can* by WeMakeDevs
