@@ -56,7 +56,6 @@ Backend-focused full-stack developer building scalable, distributed, and product
 
 ### Reliability & Distributed Systems
 
-![Redis](https://img.shields.io/badge/Redis%20Caching-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
 ![Retry](https://img.shields.io/badge/Retry-34495E?style=for-the-badge)
 ![Circuit Breaker](https://img.shields.io/badge/Circuit%20Breaker-34495E?style=for-the-badge)
 ![Rate Limiting](https://img.shields.io/badge/Rate%20Limiting-34495E?style=for-the-badge)
